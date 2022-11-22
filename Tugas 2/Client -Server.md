@@ -27,4 +27,4 @@
 
 6. lalu coba lakukan ping pada windows jika berhasil maka akan muncul tampilan sebagai berikut.
 
-![gambar](/Tugas%202/Gambar/gambar_6.png
+![gambar](/Tugas%202/Gambar/gambar_6.png)
