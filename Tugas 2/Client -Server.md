@@ -5,4 +5,5 @@
 3. Rizky Ahmad (1910131310003)
 
 # Client Sever
-1. 
+1. install terlebih dahulu network manager dengan net tools, perintah nya yaitu apt install network-manager dan apt install net-tools
+![gambar](/Tugas%202/Gambar/gambar_1.png)
